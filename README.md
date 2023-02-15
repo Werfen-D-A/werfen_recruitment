@@ -30,5 +30,6 @@ https://colab.research.google.com/drive/1VgpabxJkUo-ZpkIeYmpPGMVztw3-ftWJ?usp=sh
 
 ![Frame 20](https://user-images.githubusercontent.com/95102222/218996437-a891984d-01fd-4e21-a044-e7df6f295fec.png)
 
-8. Save the results as ipynb
+8. Save the results as ipynb:
+
 ![image](https://user-images.githubusercontent.com/54947459/218998444-55360393-9d3a-40cd-95f5-33a3339464fc.png)
