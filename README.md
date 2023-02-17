@@ -4,7 +4,7 @@ This repository was created in order to execute recruitment process and check ca
 ## Instruction:
 
 1. Open following link:
-https://colab.research.google.com/drive/1VgpabxJkUo-ZpkIeYmpPGMVztw3-ftWJ?usp=sharing
+https://colab.research.google.com/drive/1O7pael4XvcJBkQGbshaXf7i_xH_wHKR7#scrollTo=-Mvy9KEfYnt-
                          
 2. If such pop up will appear, press **"Run anyway"** 
                                  
