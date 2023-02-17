@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1O7pael4XvcJBkQGbshaXf7i_xH_wHKR7#scroll
                          
 2. If such pop up will appear, press **"Run anyway"** 
                                  
-![Frame 15](https://user-images.githubusercontent.com/95102222/218988950-8d6813b2-0a50-429c-b6ac-bd3656a42a00.png)
+![Frame 1](https://user-images.githubusercontent.com/95102222/219659336-556b4554-2095-4e6c-b31d-052f1729e61b.png)
                            
 3. Run first section to connect to the database and import needed packages:
                                 
