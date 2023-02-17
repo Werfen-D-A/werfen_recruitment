@@ -1,5 +1,5 @@
 # Werfen recruitment                  
-This repository was created in order to execute recruitment process and check candidate's SQL skills in a fast and convinient way.
+This repository was created in order to execute recruitment process and check candidate's SQL skills in a fast and convenient way.
 
 ## Instruction:
 
